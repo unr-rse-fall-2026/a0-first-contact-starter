@@ -1,15 +1,16 @@
 # Documentation trail
 
-Use official ROS 2 Jazzy documentation. Direct links are preferred.
+Use the two official ROS 2 Jazzy source files linked in Part 3. Quote only the short line or fragment needed to identify each element.
 
-| What I needed | Official page or section | What I used from it |
+| Code element | File and line or short fragment | What this element does |
 |---|---|---|
-| Create an `ament_python` package | [link] | [brief note] |
-| Write the publisher | [link] | [brief note] |
-| Write the subscriber | [link] | [brief note] |
-| Configure executables | [link] | [brief note] |
-| Build and run the package | [link] | [brief note] |
+| Import the message type | [Your answer] | [brief note] |
+| Assign the node name | [Your answer] | [brief note] |
+| Create the publisher | [Your answer] | [brief note] |
+| Create the subscription | [Your answer] | [brief note] |
+| Assign the topic name | [Your answer] | [brief note] |
+| Control when a callback occurs | [Your answer] | [brief note] |
+| Initialize, run, and shut down ROS | [Your answer] | [brief note] |
 
 **One place where the documentation helped me correct or avoid a mistake:**  
 [Your answer]
-

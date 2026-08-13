@@ -50,7 +50,7 @@ Replace every bracketed prompt with your own observation. Keep output excerpts s
 
 **Interpretation:** [Describe one message and the approximate rate.]
 
-## Part 5: Your modified system
+## Part 4: Your status system
 
 ### Nodes and topic
 
@@ -70,13 +70,26 @@ Replace every bracketed prompt with your own observation. Keep output excerpts s
 [commands and output]
 ```
 
-**Interpretation:** [Explain how this supports the required message content and 2 Hz rate.]
+**Interpretation:** [Explain how this supports the required message content and 4 Hz rate.]
 
-## CPE 669 extension
+## Part 6: Your count system
 
-Delete this section if you are enrolled in CPE 469.
+**Commands and relevant output:**
+
+```text
+[commands and output]
+```
+
+**Interpretation:** [Explain how this supports the node names, /lab0/count topic, Int32 type, publisher/subscriber connection, increasing values, and 1 Hz rate.]
+
+## CPE 691 extension
+
+Delete this section if you are enrolled in CPE 491.
 
 ```text
 [output of ros2 topic info /lab0/status --verbose]
 ```
 
+```text
+[output of ros2 topic info /lab0/count --verbose]
+```
